@@ -1,0 +1,15 @@
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\ITtopics\GithubActions_Oef1\GithubActions_Oef1\bin\Debug\net6.0\GithubActions_Oef1.exe
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\ITtopics\GithubActions_Oef1\GithubActions_Oef1\bin\Debug\net6.0\GithubActions_Oef1.deps.json
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\ITtopics\GithubActions_Oef1\GithubActions_Oef1\bin\Debug\net6.0\GithubActions_Oef1.runtimeconfig.json
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\ITtopics\GithubActions_Oef1\GithubActions_Oef1\bin\Debug\net6.0\GithubActions_Oef1.dll
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\ITtopics\GithubActions_Oef1\GithubActions_Oef1\bin\Debug\net6.0\GithubActions_Oef1.pdb
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\ITtopics\GithubActions_Oef1\GithubActions_Oef1\obj\Debug\net6.0\GithubActions_Oef1.csproj.AssemblyReference.cache
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\ITtopics\GithubActions_Oef1\GithubActions_Oef1\obj\Debug\net6.0\GithubActions_Oef1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\ITtopics\GithubActions_Oef1\GithubActions_Oef1\obj\Debug\net6.0\GithubActions_Oef1.AssemblyInfoInputs.cache
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\ITtopics\GithubActions_Oef1\GithubActions_Oef1\obj\Debug\net6.0\GithubActions_Oef1.AssemblyInfo.cs
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\ITtopics\GithubActions_Oef1\GithubActions_Oef1\obj\Debug\net6.0\GithubActions_Oef1.csproj.CoreCompileInputs.cache
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\ITtopics\GithubActions_Oef1\GithubActions_Oef1\obj\Debug\net6.0\GithubActions_Oef1.dll
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\ITtopics\GithubActions_Oef1\GithubActions_Oef1\obj\Debug\net6.0\refint\GithubActions_Oef1.dll
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\ITtopics\GithubActions_Oef1\GithubActions_Oef1\obj\Debug\net6.0\GithubActions_Oef1.pdb
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\ITtopics\GithubActions_Oef1\GithubActions_Oef1\obj\Debug\net6.0\GithubActions_Oef1.genruntimeconfig.cache
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\ITtopics\GithubActions_Oef1\GithubActions_Oef1\obj\Debug\net6.0\ref\GithubActions_Oef1.dll
